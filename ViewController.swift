@@ -1,6 +1,5 @@
 //
 //  ViewController.swift
-//  Homework_12
 //
 //  Created by Apple on 17.05.21.
 //
